@@ -1,0 +1,13 @@
+.navbarGlob{
+    background-color: #f48db4;
+    width: 100%;
+    top: 0;
+}
+
+.navName{
+    color: #fafafa;
+    margin-left: 10px;
+}
+#dropdown{
+   color: #fafafa;
+}

@@ -1,0 +1,18 @@
+.beauty{
+    margin-top: 20px;
+}
+
+.homeHead{
+    margin-top: 80px;
+}
+
+.buttons{
+    background-color: #f48db4;   
+    border-color: #f48db4;
+    margin-bottom: 20px;
+}
+
+.buttons:hover{
+    background: #ff347f;
+    border-color: #ff347f;
+}
