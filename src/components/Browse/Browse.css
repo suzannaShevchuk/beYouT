@@ -1,0 +1,66 @@
+.browseHomeCard{
+    width: 90%;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardBody{
+    width: 100%;
+}
+
+.browseNav{
+   justify-content: center;
+   align-items: center;
+}
+
+.browseNavLink{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.browseNavLink:hover{
+    text-decoration: underline;
+    color:#c9356c;
+}
+
+.browseHomeImg{
+    opacity: 80%;
+}
+
+.browseCardHeader{
+    position: absolute;
+    color: #fafafa;
+    margin-top: 165px;
+    margin-bottom: auto;
+
+}
+
+.browseCardText{
+    position: absolute;
+    color: #fafafa;
+    margin-top: 195px;
+}
+
+.locationCard{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.locationCardText{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.carouselCard{
+    width: 22%;
+    height: 22%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}

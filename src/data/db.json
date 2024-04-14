@@ -1,0 +1,49 @@
+{ "businesses":
+    [
+        {
+            "id": 1,
+            "name": "Beauty Bar",
+            "phone": "425-123-1234",
+            "location": "Everett, Wa",
+            "services": ["Hair Style", "Hair Cut"],
+            "rating": 2,
+            "reviews": [[5.0, "exceptional salon"], [3.0, "it was a mid experience"], [4.8, "almost perfect"]]
+        },
+        {
+            "id": 2,
+            "name": "Hot Spot",
+            "phone": "425-123-1234",
+            "location": "Everett, Wa",
+            "services": ["Eyebrows", "Facial"],
+            "rating": 5,
+            "reviews": [[5.0, "exceptional salon"], [3.0, "it was a mid experience"], [4.8, "almost perfect"]]
+        },
+        {
+            "id": 3,
+            "name": "High Vibe Beauty",
+            "phone": "425-123-1234",
+            "location": "Everett, Wa",
+            "services": ["Lashes", "Nails"],
+            "rating": 1,
+            "reviews": [[5.0, "exceptional salon"], [3.0, "it was a mid experience"], [4.8, "almost perfect"]]
+        },
+        {
+            "id": 4,
+            "name": "Lush Nails",
+            "phone": "425-123-1234",
+            "location": "Everett, Wa",
+            "services": ["Nails", "Pedicure"],
+            "rating": 4,
+            "reviews": [[5.0, "exceptional salon"], [3.0, "it was a mid experience"], [4.8, "almost perfect"]]
+        },
+        {
+            "id": 5,
+            "name": "Hot Girl Lashes",
+            "phone": "425-123-1234",
+            "location": "Everett, Wa",
+            "services": ["Lash Lift", "Lash Extension"],
+            "rating": 3,
+            "reviews": [[5.0, "exceptional salon"], [3.0, "it was a mid experience"], [4.8, "almost perfect"]]
+        }
+    ]
+}
